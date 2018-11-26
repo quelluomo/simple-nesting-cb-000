@@ -16,7 +16,7 @@ def hopper
         }
      }
 
-		 return [:grace_hopper][:known_for]
+		 programmer_hash["Grace Hopper"]
 end
 
 def alan_kay_is_known_for
